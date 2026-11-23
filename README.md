@@ -141,3 +141,7 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 ## 🛠️ Tech Stack
 
 🐍 Python · 🐼 pandas · 🔢 NumPy · 📊 Matplotlib · 🎨 Seaborn · 🤖 scikit-learn · ☁️ Google Colab
+
+## 📊 Dashboard
+<img width="1400" height="985" alt="styled_dashboard_screenshot" src="https://github.com/user-attachments/assets/c8833204-650d-4a15-9468-6a3c5abf1798" />
+
